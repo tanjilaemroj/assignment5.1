@@ -1,0 +1,53 @@
+{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    margin-top: 10px;
+    background-color: #96c3fc;
+}
+.header_height{
+    height: 60px;
+     border: 2px solid red;
+    margin: 20px 0px;
+     background-color: #c9e0ff;        
+}
+.left_hero{
+    min-height: 100;
+    margin-top: 20px;
+   
+}
+.left_hero1{
+    height: 80px;
+     border: 2px solid red;
+    margin: 20px 0px;
+    background-color: #c9e0ff;
+}
+.right_hero{
+    height: 100px;
+    margin: 20px;
+}
+ .left_body{
+    min-height: 270px;
+    margin-top: 20px;
+    
+}
+.left_body1{
+    border: 2px solid red;
+    background-color: #c9e0ff;
+    min-height: 250px;
+    
+}
+.right_body{
+    height: 250px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+   border: 2px solid red;
+    background-color: #c9e0ff; 
+}
+.footer_contant{
+     border: 2px solid red;
+    background-color: #c9e0ff;
+    min-height: 100px;
+    margin: 10px 0;
+}   
